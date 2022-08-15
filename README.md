@@ -11,8 +11,8 @@ Fully functioning messaging application developed for quick access to veterinari
 ## Development
 Created using JavaScript and React\
 Built upon Stream's chat messaging api: https://getstream.io/
-Front-end hosted using Netlify\
-Back-end hosted using Heroku\
+\Front-end hosted using Netlify
+Back-end hosted using Heroku
 
 ## Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
