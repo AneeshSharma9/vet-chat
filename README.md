@@ -8,7 +8,7 @@ Enable back-end: https://vet-chat.herokuapp.com/
 ## 📜 Description
 Fully functioning messaging application developed for quick access to veterinarians for pet owners with any urgent questions
 
-## 🧑🏽‍💻 Development
+## 💻 Development
 Created using JavaScript and React\
 Built upon Stream's chat messaging api: https://getstream.io/ \
 Front-end hosted using Netlify
